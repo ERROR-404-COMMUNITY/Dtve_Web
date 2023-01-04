@@ -15,7 +15,7 @@
 
 <p align="center">
 <a href="#"><img title="Language" src="https://img.shields.io/badge/Hecha%20en-Bash-1f425f.svg?v=103"></a>
-<a href="#"><img title="Seguidores" src="https://img.shields.io/github/followers/ERROR-404-COMMUNITY&color=blue&style=flat-square"></a>
+<a href="#"><img title="Seguidores" src="https://img.shields.io/github/followers/ERROR-404-COMMUNITY?color=blue&style=flat-square"></a>
 <a href="#"><img title="Stars" src="https://img.shields.io/github/stars/ERROR-404-COMMUNITY/Dtve_Web&color=red&style=flat-square"></a>
 <a href="#"><img title="Forks" src="https://img.shields.io/github/forks/ERROR-404-COMMUNITY/Dtve_Web?color=red&style=flat-square"></a>
 <a href="#"><img title="Vistas" src="https://img.shields.io/github/watchers/ERROR-404-COMMUNITY/Dtve_Web?label=Watchers&color=blue&style=flat-square"></a>
